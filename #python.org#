@@ -1,0 +1,6 @@
+#+BRAIN_CHILDREN: php
+Php es en realidad una implementación de Perl 
+para servidor de internet. Fue muy usado para hacer CMS pero
+ultimamente ha sido desplazado por javascript
+#+BRAIN_PARENTS: Proyectos
+
